@@ -1,0 +1,8 @@
+{
+  "name": "DigSite Pro - AI Archaeological Research Platform",
+  "description": "Next-generation AI-powered archaeological platform for 3D site mapping, sub-centimeter photogrammetry, instant artifact classification, Harris matrix stratigraphic modeling, and publication-ready field reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
